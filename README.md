@@ -3,15 +3,12 @@ Git clone this repository
 acess the folder
 
 
-acess folder source 
+acess source
 
-docker-compose run development ng new 'appName' --directory "."
+docker-compose run development ng new appName --directory "."
 
-git init 
+git init
 
-git commit
-
+git commit -
 
 git push
-
-
